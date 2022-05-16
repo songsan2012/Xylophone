@@ -13,6 +13,13 @@
 		E4ED05CA281A0D8D000DBA5C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4ED05C8281A0D8D000DBA5C /* Main.storyboard */; };
 		E4ED05CC281A0D8F000DBA5C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4ED05CB281A0D8F000DBA5C /* Assets.xcassets */; };
 		E4ED05CF281A0D8F000DBA5C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4ED05CD281A0D8F000DBA5C /* LaunchScreen.storyboard */; };
+		E4ED05DD281A0F80000DBA5C /* note3.wav in Resources */ = {isa = PBXBuildFile; fileRef = E4ED05D6281A0F7F000DBA5C /* note3.wav */; };
+		E4ED05DE281A0F80000DBA5C /* note1.wav in Resources */ = {isa = PBXBuildFile; fileRef = E4ED05D7281A0F80000DBA5C /* note1.wav */; };
+		E4ED05DF281A0F80000DBA5C /* note4.wav in Resources */ = {isa = PBXBuildFile; fileRef = E4ED05D8281A0F80000DBA5C /* note4.wav */; };
+		E4ED05E0281A0F80000DBA5C /* note6.wav in Resources */ = {isa = PBXBuildFile; fileRef = E4ED05D9281A0F80000DBA5C /* note6.wav */; };
+		E4ED05E1281A0F80000DBA5C /* note7.wav in Resources */ = {isa = PBXBuildFile; fileRef = E4ED05DA281A0F80000DBA5C /* note7.wav */; };
+		E4ED05E2281A0F80000DBA5C /* note2.wav in Resources */ = {isa = PBXBuildFile; fileRef = E4ED05DB281A0F80000DBA5C /* note2.wav */; };
+		E4ED05E3281A0F80000DBA5C /* note5.wav in Resources */ = {isa = PBXBuildFile; fileRef = E4ED05DC281A0F80000DBA5C /* note5.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +31,13 @@
 		E4ED05CB281A0D8F000DBA5C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E4ED05CE281A0D8F000DBA5C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E4ED05D0281A0D8F000DBA5C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E4ED05D6281A0F7F000DBA5C /* note3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note3.wav; sourceTree = "<group>"; };
+		E4ED05D7281A0F80000DBA5C /* note1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note1.wav; sourceTree = "<group>"; };
+		E4ED05D8281A0F80000DBA5C /* note4.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note4.wav; sourceTree = "<group>"; };
+		E4ED05D9281A0F80000DBA5C /* note6.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note6.wav; sourceTree = "<group>"; };
+		E4ED05DA281A0F80000DBA5C /* note7.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note7.wav; sourceTree = "<group>"; };
+		E4ED05DB281A0F80000DBA5C /* note2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note2.wav; sourceTree = "<group>"; };
+		E4ED05DC281A0F80000DBA5C /* note5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note5.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +77,13 @@
 				E4ED05CB281A0D8F000DBA5C /* Assets.xcassets */,
 				E4ED05CD281A0D8F000DBA5C /* LaunchScreen.storyboard */,
 				E4ED05D0281A0D8F000DBA5C /* Info.plist */,
+				E4ED05D7281A0F80000DBA5C /* note1.wav */,
+				E4ED05DB281A0F80000DBA5C /* note2.wav */,
+				E4ED05D6281A0F7F000DBA5C /* note3.wav */,
+				E4ED05D8281A0F80000DBA5C /* note4.wav */,
+				E4ED05DC281A0F80000DBA5C /* note5.wav */,
+				E4ED05D9281A0F80000DBA5C /* note6.wav */,
+				E4ED05DA281A0F80000DBA5C /* note7.wav */,
 			);
 			path = Xylophone;
 			sourceTree = "<group>";
@@ -125,8 +146,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E4ED05E3281A0F80000DBA5C /* note5.wav in Resources */,
+				E4ED05E2281A0F80000DBA5C /* note2.wav in Resources */,
 				E4ED05CF281A0D8F000DBA5C /* LaunchScreen.storyboard in Resources */,
 				E4ED05CC281A0D8F000DBA5C /* Assets.xcassets in Resources */,
+				E4ED05E1281A0F80000DBA5C /* note7.wav in Resources */,
+				E4ED05DD281A0F80000DBA5C /* note3.wav in Resources */,
+				E4ED05E0281A0F80000DBA5C /* note6.wav in Resources */,
+				E4ED05DF281A0F80000DBA5C /* note4.wav in Resources */,
+				E4ED05DE281A0F80000DBA5C /* note1.wav in Resources */,
 				E4ED05CA281A0D8D000DBA5C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

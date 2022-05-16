@@ -15,5 +15,17 @@ class ViewController: UIViewController {
     }
 
 
+    @IBAction func notePressed(_ sender: UIButton) {
+        
+        // -- Find out which button was pressed
+        print(sender.tag)
+        
+        // -- Play the note
+        
+        
+    }
+    
+    
+    
 }
 
